@@ -1,0 +1,82 @@
+{
+    "assignments": [
+        {
+            "package_id": "P1",
+            "agent_id": "A1",
+            "distance": 25.24
+        },
+        {
+            "package_id": "P2",
+            "agent_id": "A2",
+            "distance": 11.61
+        },
+        {
+            "package_id": "P3",
+            "agent_id": "A2",
+            "distance": 58.0
+        },
+        {
+            "package_id": "P4",
+            "agent_id": "A2",
+            "distance": 54.5
+        },
+        {
+            "package_id": "P5",
+            "agent_id": "A2",
+            "distance": 16.79
+        },
+        {
+            "package_id": "P6",
+            "agent_id": "A2",
+            "distance": 4.58
+        },
+        {
+            "package_id": "P7",
+            "agent_id": "A2",
+            "distance": 17.73
+        },
+        {
+            "package_id": "P8",
+            "agent_id": "A2",
+            "distance": 10.47
+        },
+        {
+            "package_id": "P9",
+            "agent_id": "A2",
+            "distance": 54.78
+        },
+        {
+            "package_id": "P10",
+            "agent_id": "A2",
+            "distance": 24.13
+        },
+        {
+            "package_id": "P11",
+            "agent_id": "A2",
+            "distance": 58.62
+        }
+    ],
+    "agent_statistics": {
+        "A1": {
+            "packages_delivered": 1,
+            "total_distance": 25.24,
+            "efficiency": 25.24
+        },
+        "A2": {
+            "packages_delivered": 10,
+            "total_distance": 311.19,
+            "efficiency": 31.12
+        },
+        "A3": {
+            "packages_delivered": 0,
+            "total_distance": 0,
+            "efficiency": 0
+        },
+        "A4": {
+            "packages_delivered": 0,
+            "total_distance": 0,
+            "efficiency": 0
+        }
+    },
+    "best_agent": "A1"
+}
